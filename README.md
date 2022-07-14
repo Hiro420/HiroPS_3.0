@@ -39,7 +39,7 @@ EN | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md) | [FR](README_fr-FR.m
 1. Get `grasscutter-2.2.1_dev.jar`
    - [Build by yourself](#Building)
 2. Create a `resources` folder in the directory where grasscutter.jar is located and move your `BinOutput` and `ExcelBinOutput` folders there *(Check the [wiki](https://github.com/Grasscutters/Grasscutter/wiki) for more details how to get those.)*
-3. Run Grasscutter with `java -jar grasscutter.jar`. **Make sure mongodb service is running as well.**
+3. Run Grasscutter with `java -jar grasscutter-1.2.1_dev.jar`. **Make sure mongodb service is running as well.**
 
 ### Connecting with the client
 
